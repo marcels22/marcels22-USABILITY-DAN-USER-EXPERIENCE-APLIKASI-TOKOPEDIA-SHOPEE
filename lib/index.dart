@@ -1,0 +1,117 @@
+// Export pages
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/auth_page/auth_page_widget.dart' show AuthPageWidget;
+export '/auth/survey_tokopedia1/survey_tokopedia1_widget.dart'
+    show SurveyTokopedia1Widget;
+export '/selection/selection_widget.dart' show SelectionWidget;
+export '/auth/survey_tokopedia2/survey_tokopedia2_widget.dart'
+    show SurveyTokopedia2Widget;
+export '/auth/survey_tokopedia3/survey_tokopedia3_widget.dart'
+    show SurveyTokopedia3Widget;
+export '/auth/survey_tokopedia4/survey_tokopedia4_widget.dart'
+    show SurveyTokopedia4Widget;
+export '/auth/survey_tokopedia5/survey_tokopedia5_widget.dart'
+    show SurveyTokopedia5Widget;
+export '/auth/survey_tokopedia6/survey_tokopedia6_widget.dart'
+    show SurveyTokopedia6Widget;
+export '/auth/survey_tokopedia7/survey_tokopedia7_widget.dart'
+    show SurveyTokopedia7Widget;
+export '/auth/survey_tokopedia8/survey_tokopedia8_widget.dart'
+    show SurveyTokopedia8Widget;
+export '/auth/survey_tokopedia9/survey_tokopedia9_widget.dart'
+    show SurveyTokopedia9Widget;
+export '/auth/survey_tokopedia10/survey_tokopedia10_widget.dart'
+    show SurveyTokopedia10Widget;
+export '/auth/survey_tokopedia11/survey_tokopedia11_widget.dart'
+    show SurveyTokopedia11Widget;
+export '/auth/survey_tokopedia12/survey_tokopedia12_widget.dart'
+    show SurveyTokopedia12Widget;
+export '/auth/survey_tokopedia13/survey_tokopedia13_widget.dart'
+    show SurveyTokopedia13Widget;
+export '/auth/survey_tokopedia14/survey_tokopedia14_widget.dart'
+    show SurveyTokopedia14Widget;
+export '/auth/survey_tokopedia15/survey_tokopedia15_widget.dart'
+    show SurveyTokopedia15Widget;
+export '/auth/survey_tokopedia16/survey_tokopedia16_widget.dart'
+    show SurveyTokopedia16Widget;
+export '/auth/survey_tokopedia18/survey_tokopedia18_widget.dart'
+    show SurveyTokopedia18Widget;
+export '/auth/survey_tokopedia17/survey_tokopedia17_widget.dart'
+    show SurveyTokopedia17Widget;
+export '/auth/survey_tokopedia19/survey_tokopedia19_widget.dart'
+    show SurveyTokopedia19Widget;
+export '/auth/survey_tokopedia20/survey_tokopedia20_widget.dart'
+    show SurveyTokopedia20Widget;
+export '/auth/survey_tokopedia21/survey_tokopedia21_widget.dart'
+    show SurveyTokopedia21Widget;
+export '/auth/survey_tokopedia22/survey_tokopedia22_widget.dart'
+    show SurveyTokopedia22Widget;
+export '/auth/survey_tokopedia23/survey_tokopedia23_widget.dart'
+    show SurveyTokopedia23Widget;
+export '/auth/survey_tokopedia24/survey_tokopedia24_widget.dart'
+    show SurveyTokopedia24Widget;
+export '/auth/survey_tokopedia25/survey_tokopedia25_widget.dart'
+    show SurveyTokopedia25Widget;
+export '/auth/survey_tokopedia26/survey_tokopedia26_widget.dart'
+    show SurveyTokopedia26Widget;
+export '/auth/survey_tokopedia27/survey_tokopedia27_widget.dart'
+    show SurveyTokopedia27Widget;
+export '/auth/survey_tokopedia28/survey_tokopedia28_widget.dart'
+    show SurveyTokopedia28Widget;
+export '/auth/survey_tokopedia29/survey_tokopedia29_widget.dart'
+    show SurveyTokopedia29Widget;
+export '/shopee/survey_shopee1/survey_shopee1_widget.dart'
+    show SurveyShopee1Widget;
+export '/shopee/survey_shopee2/survey_shopee2_widget.dart'
+    show SurveyShopee2Widget;
+export '/shopee/survey_shopee3/survey_shopee3_widget.dart'
+    show SurveyShopee3Widget;
+export '/shopee/survey_shopee4/survey_shopee4_widget.dart'
+    show SurveyShopee4Widget;
+export '/shopee/survey_shopee5/survey_shopee5_widget.dart'
+    show SurveyShopee5Widget;
+export '/shopee/survey_shopee6/survey_shopee6_widget.dart'
+    show SurveyShopee6Widget;
+export '/shopee/survey_shopee7/survey_shopee7_widget.dart'
+    show SurveyShopee7Widget;
+export '/shopee/survey_shopee8/survey_shopee8_widget.dart'
+    show SurveyShopee8Widget;
+export '/shopee/survey_shopee9/survey_shopee9_widget.dart'
+    show SurveyShopee9Widget;
+export '/shopee/survey_shopee10/survey_shopee10_widget.dart'
+    show SurveyShopee10Widget;
+export '/shopee/survey_shopee11/survey_shopee11_widget.dart'
+    show SurveyShopee11Widget;
+export '/shopee/survey_shopee12/survey_shopee12_widget.dart'
+    show SurveyShopee12Widget;
+export '/shopee/survey_shopee13/survey_shopee13_widget.dart'
+    show SurveyShopee13Widget;
+export '/shopee/survey_shopee14/survey_shopee14_widget.dart'
+    show SurveyShopee14Widget;
+export '/shopee/survey_shopee15/survey_shopee15_widget.dart'
+    show SurveyShopee15Widget;
+export '/shopee/survey_shopee16/survey_shopee16_widget.dart'
+    show SurveyShopee16Widget;
+export '/shopee/survey_shopee17/survey_shopee17_widget.dart'
+    show SurveyShopee17Widget;
+export '/shopee/survey_shopee18/survey_shopee18_widget.dart'
+    show SurveyShopee18Widget;
+export '/shopee/survey_shopee19/survey_shopee19_widget.dart'
+    show SurveyShopee19Widget;
+export '/shopee/survey_shopee20/survey_shopee20_widget.dart'
+    show SurveyShopee20Widget;
+export '/shopee/survey_shopee21/survey_shopee21_widget.dart'
+    show SurveyShopee21Widget;
+export '/shopee/survey_shopee22/survey_shopee22_widget.dart'
+    show SurveyShopee22Widget;
+export '/shopee/survey_shopee23/survey_shopee23_widget.dart'
+    show SurveyShopee23Widget;
+export '/shopee/survey_shopee24/survey_shopee24_widget.dart'
+    show SurveyShopee24Widget;
+export '/shopee/survey_shopee25/survey_shopee25_widget.dart'
+    show SurveyShopee25Widget;
+export '/shopee/survey_shopee26/survey_shopee26_widget.dart'
+    show SurveyShopee26Widget;
+export '/shopee/survey_shopee27/survey_shopee27_widget.dart'
+    show SurveyShopee27Widget;
+export '/thankyou/thankyou_widget.dart' show ThankyouWidget;

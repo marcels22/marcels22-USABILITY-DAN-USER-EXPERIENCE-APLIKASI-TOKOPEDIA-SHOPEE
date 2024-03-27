@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842235399406",
+    "project_id": "survey-app-c816c",
+    "storage_bucket": "survey-app-c816c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842235399406:android:9edb55d0cff61af02eb7ff",
+        "android_client_info": {
+          "package_name": "com.brainbyte.surveyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQS1RmgjirC18o4d1AlmGLTA8CR7OB30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
